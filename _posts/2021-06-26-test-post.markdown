@@ -36,9 +36,9 @@ Here's a **[bold link](https://lord.technology)** to something!
 1. A numbered list
 2. A second item in a numbered list
 
-☐ Something to do
+- [ ] Something to do
 
-🗹 Something done
+- [x] Something done
 
 1. Another numbered list!
 2. ╰(*°▽°*)╯
