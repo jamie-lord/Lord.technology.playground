@@ -36,11 +36,10 @@ Here's a **[bold link](https://lord.technology)** to something!
 1. A numbered list
 2. A second item in a numbered list
 
-
 1. Another numbered list!
 2. ╰(*°▽°*)╯
 
-UNSUPPORTED BLOCKTYPE
+**Notion API unsupported blocktype**
 {: .notice--danger}
 
 🍿🧈🥗😁
