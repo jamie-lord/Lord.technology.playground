@@ -1,6 +1,6 @@
 ---
 title: Test post
-date: 2021-06-26T19:29:00.0000000+01:00
+date: 2021-06-26T20:47:00.0000000+01:00
 notion_id: e41baefe-36a8-45b9-93f7-f9294ad0e29a
 categories: 
 tags: 
@@ -51,5 +51,5 @@ Here's a **[bold link](https://lord.technology)** to something!
 **Unsupported blocktype 'ChildPage'**
 {: .notice--danger}
 
-🍿🧈🥗😁
+🍿🧈🥗😁❤
 
