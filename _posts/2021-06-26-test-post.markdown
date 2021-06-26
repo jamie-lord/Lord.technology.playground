@@ -40,6 +40,7 @@ Here's a **[bold link](https://lord.technology)** to something!
 2. ╰(*°▽°*)╯
 
 UNSUPPORTED BLOCKTYPE
+{: .notice--danger}
 
 🍿🧈🥗😁
 
