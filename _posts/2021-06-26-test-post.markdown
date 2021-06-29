@@ -1,7 +1,7 @@
 ---
 title: Test post
 date: 2021-06-16T22:40:58.4110000+01:00
-last_modified_at: 2021-06-29T20:17:00.0000000+01:00
+last_modified_at: 2021-06-29T20:20:00.0000000+01:00
 notion_id: e41baefe-36a8-45b9-93f7-f9294ad0e29a
 categories:
 - category_1
@@ -798,9 +798,6 @@ Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
 # jinja2 injection
 #
 # first one is supposed to raise "MemoryError" exception
-# second, obviously, prints contents of /etc/passwd
-
-{% print 'x' * 64 * 1024**3 %}
-{{ "".__class__.__mro__[2].__subclasses__()[40]("/etc/passwd").read() }}
+# second, obviously, prints contents of /etc/passw}}
 
 
