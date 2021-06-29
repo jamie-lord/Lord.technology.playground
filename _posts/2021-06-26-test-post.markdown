@@ -1,9 +1,15 @@
 ---
 title: Test post
-date: 2021-06-26T21:59:00.0000000+01:00
+date: 2021-06-29T19:59:00.0000000+01:00
 notion_id: e41baefe-36a8-45b9-93f7-f9294ad0e29a
-categories: 
-tags: 
+categories:
+- category_1
+- category_2
+- category_3
+tags:
+- tag_1
+- tag_2
+- tag_3
 ---
 
 # This is a heading 1
@@ -42,13 +48,13 @@ Here's a **[bold link](https://lord.technology)** to something!
 1. Another numbered list!
 2. ╰(*°▽°*)╯
 
-**Unsupported blocktype 'Unsupported'**
+**Unsupported Notion blocktype 'Unsupported'**
 {: .notice--danger}
 
-**Unsupported blocktype 'Toggle'**
+**Unsupported Notion blocktype 'Toggle'**
 {: .notice--danger}
 
-**Unsupported blocktype 'ChildPage'**
+**Unsupported Notion blocktype 'ChildPage'**
 {: .notice--danger}
 
 🍿🧈🥗😁❤
